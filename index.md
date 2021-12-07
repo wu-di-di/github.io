@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/wu-di-di/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Postdoctoral Fellow at Nanjing University. I got my Ph.D degree in July 2021 from the School of Computer, Wuhan University, China. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mining Software Repositories, Software Defect Prediction, Machine Learning, Natural Language Process, and Information Retrieval
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+1.	**Di Wu**, Xiao-Yuan Jing, Hongyu Zhang, Bing Li, Yu Xie, Baowen Xu. Generating API tags for Tutorial Fragments From Stack Overflow， Empirical Software Engineering, 2021, 26(4):66. 
 
-**Bold** and _Italic_ and `Code` text
+2.	**Di Wu**, Xiao-Yuan Jing, Hongyu Zhang, Yuming Zhou, Baowen Xu. Leveraging Stack Overflow to Detect Relevant Tutorial Fragments of APIs. IEEE International Conference on Software Analysis, Evolution, and Reengineering. 2021:119-130. 
+	
+3.	**Di Wu**, Xiao-Yuan Jing, Hongyu Zhang, Xiaohui Kong, Yu Xie, Zhiguo Huang. Data-driven approach to application programming interface documentation mining: A review. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(5), e1369. 
+	
+4.	**Di Wu**, Xiao-Yuan Jing, Haowen Chen, Xiaohui Kong, Jifeng Xuan. Recommending Relevant Tutorial Fragments for API-Related Natural Language Questions，International Journal on Software Engineering and Knowledge Engineering. Accepted.
 
-[Link](url) and ![Image](src)
-```
+5.	**Di Wu**, Xiao-Yuan Jing, et al. Retrieving API-Related Information from Tutorials and Stack Overflow based on Natural Language Questions. ACM Transactions on Software Engineering and Methodology. Under Review.
+	
+6.	**Di Wu**, Xiao-Yuan Jing, et al. Leveraging Stack Overflow to Detect Relevant Tutorial Fragments of APIs. Empirical Software Engineering. Under Review.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+7.	Haowen Chen, Xiao-Yuan Jing, Zhiqiang Li, **Di Wu**, Yi Peng, Zhiguo Huang. An Empirical Study on Heterogeneous Defect Prediction Approaches. IEEE Transactions on Software Engineering, DOI 10.1109/TSE.2020.2968520. Accepted.
 
-### Jekyll Themes
+8.	Xiaoke Zhu, Xiao-Yuan Jing, Fei Wu, **Di Wu**, Li Cheng, Sen Li, Ruimin Hu. Multi-Kernel Low-Rank Dictionary Pair Learning for Multiple Features Based Image Classification. AAAI Conference on Artificial Intelligence, 2017: 2970-2976. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wu-di-di/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+9.	Zhiqiang Li, Xiao-Yuan Jing, **Di Wu**, Yuming Zhou, Bing Li, Baowen Xu. A Framework to Enhance Effort-Aware Just-In-Time Defect Prediction Models. IEEE Transactions on Software Engineering. Under Review.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+10. Ying Sun, Xiao-Yuan Jing, **Di Wu**, et al. Multi-view Learning Based on Product and Process Metrics for Software Defect Prediction . IEEE Transactions on Software Engineering. Under Review.
